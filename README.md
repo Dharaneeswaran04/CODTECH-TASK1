@@ -42,6 +42,13 @@ Demo:
 
 A live demo of the To-Do List Webpage can be found here.
 
+The screenshot of the basic structure of the to do list is this:
+![Screenshot (55)](https://github.com/user-attachments/assets/becf735e-9837-4cd6-a49d-8579bd03355b)
+
+The screenshot of the filled todo list is this:
+![Screenshot (56)](https://github.com/user-attachments/assets/3bffda3f-decc-47da-b2f2-e2cecf5afeb1)
+
+
 Prerequisites:
 
 Before you begin, ensure you have met the following requirements:

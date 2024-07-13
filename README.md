@@ -1,5 +1,6 @@
 # CODTECH-TASK1
-To-Do List Webpage
+To-Do List Webpage:
+
 Welcome to the To-Do List Webpage project! This application is designed to help you manage your tasks efficiently. Below, you'll find comprehensive information on how to set up, use, and contribute to this project.
 
 Table of Contents:
@@ -18,32 +19,44 @@ Deployment
 Contributing
 License
 Contact
-Introduction
+
+Introduction:
+
 This To-Do List Webpage is a simple and intuitive application that helps users keep track of their tasks. Users can add, edit, delete, and filter tasks based on their status (all, completed, pending).
 
-Features
+Features:
+
 Add New Tasks: Users can easily add new tasks to their to-do list.
+
 Mark Tasks as Completed: Users can mark tasks as completed to keep track of their progress.
+
 Edit Tasks: Users can edit existing tasks to update their details.
+
 Delete Tasks: Users can delete tasks that are no longer needed.
+
 Filter Tasks: Users can filter tasks to view all tasks, only completed tasks, or only pending tasks.
+
 Responsive Design: The application is designed to work seamlessly on both mobile and desktop devices.
-Demo
+
+Demo:
+
 A live demo of the To-Do List Webpage can be found here.
 
-Prerequisites
+Prerequisites:
+
 Before you begin, ensure you have met the following requirements:
 
 Node.js (version 12.x or later)
 npm (version 6.x or later)
-A web browser (e.g., Chrome, Firefox)
-Installation
+A web browser (e.g., Chrome, edge)
+Installation:
 To set up this project locally, follow these steps:
 
 Clone the repository:
+
 bash
 Copy code
-git clone https://github.com/your-username/todo-list-webpage.git
+git clone [https://github.com/your-username/todo-list-webpage.git](https://github.com/Dharaneeswaran04/CODTECH-TASK1.git)
 Navigate to the project directory:
 bash
 Copy code
@@ -85,19 +98,23 @@ todo-list-webpage/
 ├── package.json
 ├── README.md
 └── ...
-Technologies Used
+
+Technologies Used:
+
 Front-end:
 
 HTML5
 CSS3
 JavaScript (ES6)
 React.js
+
 Back-end:
 
 Node.js
 Express.js (if applicable)
 MongoDB (if applicable)
 API Endpoints
+
 If your project includes a back-end, list the available API endpoints:
 
 GET /api/tasks: Retrieve all tasks.
@@ -112,7 +129,7 @@ Copy code
 npm test
 Make sure to write unit tests for your components and API endpoints to ensure the functionality is as expected.
 
-Deployment
+Deployment:
 To deploy the application, follow these steps:
 
 Build the project:
@@ -140,9 +157,9 @@ git push origin feature/your-feature-name
 Create a new Pull Request.
 Please make sure your code follows the project's coding standards and includes appropriate tests.
 
-License
+License:
 This project is licensed under the MIT License. See the LICENSE file for details.
 
-Contact
-If you have any questions or suggestions, feel free to contact me at your-email@example.com.
+Contact:
+If you have any questions or suggestions, feel free to contact me at shinzosasegayo@gmail.com
 

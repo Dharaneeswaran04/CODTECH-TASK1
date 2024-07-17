@@ -63,7 +63,7 @@ Clone the repository:
 
 bash
 Copy code
-git clone [https://github.com/your-username/todo-list-webpage.git](https://github.com/Dharaneeswaran04/CODTECH-TASK1.git)
+git clone [https://github.com/Dharaneeswaran04/CODTECH-TASK1.git]
 Navigate to the project directory:
 bash
 Copy code

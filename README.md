@@ -47,8 +47,9 @@ The screenshot of the basic structure of the to do list is this:
 
 The screenshot of the filled todo list is this:
 ![Screenshot (56)](https://github.com/user-attachments/assets/3bffda3f-decc-47da-b2f2-e2cecf5afeb1)
+![Screenshot (59)](https://github.com/user-attachments/assets/a1bad6a9-6474-48b5-aa11-784c5d498d76)
 
-"C:\Users\dhara\Pictures\Screenshots\Screenshot (54).png"
+
 
 
 Prerequisites:
